@@ -15,8 +15,5 @@
   "license": "ISC",
   "dependencies": {
     "mysql2": "^2.3.3"
-  },
-  "devDependencies": {
-    "snowpack": "^3.8.8"
   }
 }
